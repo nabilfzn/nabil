@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm nabilfauzan</h1>
-<h3 align="center">A passionate AI & cloud computing enthusiast from Indonesia.</h3>
+<h3 align="center">A passionate AI enthusiast from Indonesia.</h3>
 
 - 🔭 I’m currently studying on **SMK Telkom Sidoarjo**
 
